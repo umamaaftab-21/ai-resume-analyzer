@@ -1,0 +1,7 @@
+{
+  "name": "AI Resume & Internship Analyzer",
+  "description": "Analyze your resume against a target internship or job description using Generative AI. Find skill gaps, get tailored project recommendations, interview prep, and ATS optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
